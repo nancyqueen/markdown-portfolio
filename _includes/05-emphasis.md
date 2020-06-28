@@ -1,1 +1,14 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Here are some of my skills
+
+## _Statistical_ Programming
+- R, SAS, etc.
+- JAGS
+- LaTex
+- GitHub, Git
+
+## Keywords
+-  Bayesian Modeling
+-  Meta-analysis
+-  Missing Data
+
+**"Updating. Stay Tuned!"**
